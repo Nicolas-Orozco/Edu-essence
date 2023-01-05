@@ -1,7 +1,7 @@
 import Edu_Essence from "../assets/Edu_Essence.png";
 function Navbar() {
   return (
-    <div className="navbar bg-base-100 p-3">
+    <nav className="navbar bg-base-100 p-3">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -26,7 +26,7 @@ function Navbar() {
           >
             <li tabIndex={0}>
               <a className="justify-between bg-success text-xl font-bold mb-3">
-                Ciencias ambientales
+                Ciencia y tecnología
                 <svg
                   className="fill-current"
                   xmlns="http://www.w3.org/2000/svg"
@@ -100,7 +100,7 @@ function Navbar() {
             alt="Logo of EduEssence"
             width="50"
             height="50"
-            class="p-1.5"
+            className="p-1.5"
           />
           <p>"Aprender/Reforzar"</p>
         </a>
@@ -109,7 +109,7 @@ function Navbar() {
         <ul className="menu menu-horizontal px-2 gap-10">
           <li tabIndex={0} className="bg-success outline text-lg font-bold">
             <a>
-              Ciencias ambientales
+              Ciencia y tecnología
               <svg
                 className="fill-current"
                 xmlns="http://www.w3.org/2000/svg"
@@ -153,7 +153,7 @@ function Navbar() {
           </li>
         </ul>
       </div>
-    </div>
+    </nav>
   );
 }
 
