@@ -1,4 +1,6 @@
 import Edu_Essence from "../assets/Edu_Essence.png";
+import { Link } from "react-router-dom";
+
 function Navbar() {
   return (
     <nav className="navbar bg-base-100 p-3">
@@ -39,22 +41,34 @@ function Navbar() {
               </a>
               <ul className="p-2 bg-black text-white">
                 <li>
-                  <a>Submenu 1</a>
+                  <Link to="/metodologia" className="navbar_link">
+                    Metodología científica
+                  </Link>
                 </li>
                 <li>
-                  <a>Submenu 2</a>
+                  <Link to="/magnitudes_fisicas" className="navbar_link">
+                    Magnitudes físicas
+                  </Link>
                 </li>
                 <li>
-                  <a>Submenu 1</a>
+                  <Link to="/materia_energia" className="navbar_link">
+                    Materia y energía
+                  </Link>
                 </li>
                 <li>
-                  <a>Submenu 2</a>
+                  <Link to="/fuentes_energia" className="navbar_link">
+                    Fuentes de energia y conservación del ambiente
+                  </Link>
                 </li>
                 <li>
-                  <a>Submenu 1</a>
+                  <Link to="/tierra_universo" className="navbar_link">
+                    Tierra y el universo
+                  </Link>
                 </li>
                 <li>
-                  <a>Submenu 2</a>
+                  <Link to="/conquista_espacio" className="navbar_link">
+                    Conquista del espacio
+                  </Link>
                 </li>
               </ul>
             </li>
@@ -73,37 +87,32 @@ function Navbar() {
               </a>
               <ul className="p-2 bg-black text-white">
                 <li>
-                  <a>Submenu 1</a>
+                  <Link to="/periodos_litico" className="navbar_link">
+                    Periodos lítico
+                  </Link>
                 </li>
                 <li>
-                  <a>Submenu 2</a>
-                </li>
-                <li>
-                  <a>Submenu 1</a>
-                </li>
-                <li>
-                  <a>Submenu 2</a>
-                </li>
-                <li>
-                  <a>Submenu 1</a>
-                </li>
-                <li>
-                  <a>Submenu 2</a>
+                  <Link to="/rutas_migratorias" className="navbar_link">
+                    Hipótesis de rutas migratorias
+                  </Link>
                 </li>
               </ul>
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-xl">
+        <Link
+          to="/"
+          className="btn btn-ghost normal-case text-xl border-2 border-black hover:border-2 hover:border-black"
+        >
           <img
             src={Edu_Essence}
             alt="Logo of EduEssence"
             width="50"
             height="50"
-            className="p-1.5"
+            className="p-2"
           />
           <p>"Aprender/Reforzar"</p>
-        </a>
+        </Link>
       </div>
       <div className="navbar-end hidden lg:flex">
         <ul className="menu menu-horizontal px-2 gap-10">
@@ -120,12 +129,36 @@ function Navbar() {
                 <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
               </svg>
             </a>
-            <ul className="p-2 bg-black text-white">
+            <ul className="p-2 pb-5 bg-black text-white">
               <li>
-                <a>Submenu 1</a>
+                <Link to="/metodologia" className="navbar_link">
+                  Metodología científica
+                </Link>
               </li>
               <li>
-                <a>Submenu 2</a>
+                <Link to="/magnitudes_fisicas" className="navbar_link">
+                  Magnitudes físicas
+                </Link>
+              </li>
+              <li>
+                <Link to="/materia_energia" className="navbar_link">
+                  Materia y energía
+                </Link>
+              </li>
+              <li>
+                <Link to="/fuentes_energia" className="navbar_link">
+                  Fuentes de energia y conservación del ambiente
+                </Link>
+              </li>
+              <li>
+                <Link to="/tierra_universo" className="navbar_link">
+                  Tierra y el universo
+                </Link>
+              </li>
+              <li>
+                <Link to="/conquista_espacio" className="navbar_link">
+                  Conquista del espacio
+                </Link>
               </li>
             </ul>
           </li>
@@ -142,12 +175,16 @@ function Navbar() {
                 <path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" />
               </svg>
             </a>
-            <ul className="p-2 bg-black text-white">
+            <ul className="p-2 pb-5 bg-black text-white">
               <li>
-                <a>Submenu 1</a>
+                <Link to="/periodos_litico" className="navbar_link">
+                  Periodos lítico
+                </Link>
               </li>
               <li>
-                <a>Submenu 2</a>
+                <Link to="/rutas_migratorias" className="navbar_link">
+                  Hipótesis de rutas migratorias
+                </Link>
               </li>
             </ul>
           </li>

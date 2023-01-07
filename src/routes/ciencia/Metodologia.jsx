@@ -1,6 +1,7 @@
+import Layout from "../../components/Layout";
 function Metodologia() {
   return (
-    <>
+    <Layout>
       <h1>Metología científica</h1>
       <p>
         La Metodología de la Investigación (M.I.) o Metodología de la
@@ -9,7 +10,7 @@ function Metodologia() {
         de un modo eficiente y tendiente a la excelencia el proceso de la
         investigación científica.
       </p>
-    </>
+    </Layout>
   );
 }
 

@@ -1,0 +1,13 @@
+export { default as Fuentes_energia } from "./ciencia/Fuentes_energia";
+export { default as Metodologia } from "./ciencia/Metodologia";
+export { default as Tierra_universo } from "./ciencia/Tierra_universo";
+export { default as Conquista_espacio } from "./ciencia/Conquista_espacio";
+export { default as Materia_energia } from "./ciencia/Materia_energia";
+export { default as Magnitudes_fisicas } from "./ciencia/Magnitudes_fisicas";
+export { default as Periodos_litico } from "./historia/Periodos_litico";
+export { default as Rutas_migratorias } from "./historia/Rutas_migratorias";
+export { default as Periodo_formativo } from "./historia/Periodo_formativo";
+export { default as Estados_regionales } from "./historia/Estados_regionales";
+export { default as Desarrollo_regional } from "./historia/Desarrollo_regional";
+export { default as Estados_panandinos } from "./historia/Estados_panandinos";
+export { default as Tahuantinsuyo } from "./historia/Tahuantinsuyo";
