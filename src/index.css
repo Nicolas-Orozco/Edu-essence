@@ -5,3 +5,12 @@
 .navbar_link {
   @apply whitespace-normal border-b-2 border-white hover:bg-gray-700 active:bg-gray-600;
 }
+.title {
+  @apply text-5xl font-bold py-7;
+}
+.subtitle {
+  @apply text-3xl font-bold py-5 pt-8 text-gray-700;
+}
+.link {
+  @apply underline text-lg text-blue-600 hover:text-blue-800 visited:text-purple-600;
+}

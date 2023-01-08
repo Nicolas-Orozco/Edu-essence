@@ -53,7 +53,7 @@ const router = createBrowserRouter([
     element: <Rutas_migratorias />,
   },
   {
-    path: "/desarollo_regional",
+    path: "/desarrollo_regional",
     element: <Desarrollo_regional />,
   },
   {

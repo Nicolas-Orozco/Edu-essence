@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav className="navbar bg-base-100 p-3">
+    <nav className="navbar bg-base-100 p-3 ">
       <div className="navbar-start">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -96,6 +96,31 @@ function Navbar() {
                     Hipótesis de rutas migratorias
                   </Link>
                 </li>
+                <li>
+                  <Link to="/desarrollo_regional" className="navbar_link">
+                    Desarrollo regional
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/estados_panandinos" className="navbar_link">
+                    Estados panandinos
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/estados_regionales" className="navbar_link">
+                    Estados regionales
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/periodo_formativo" className="navbar_link">
+                    Periodo formativo
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/tahuantinsuyo" className="navbar_link">
+                    Tahuantinsuyo
+                  </Link>
+                </li>
               </ul>
             </li>
           </ul>
@@ -184,6 +209,31 @@ function Navbar() {
               <li>
                 <Link to="/rutas_migratorias" className="navbar_link">
                   Hipótesis de rutas migratorias
+                </Link>
+              </li>
+              <li>
+                <Link to="/desarrollo_regional" className="navbar_link">
+                  Desarrollo regional
+                </Link>
+              </li>
+              <li>
+                <Link to="/estados_panandinos" className="navbar_link">
+                  Estados panandinos
+                </Link>
+              </li>
+              <li>
+                <Link to="/estados_regionales" className="navbar_link">
+                  Estados regionales
+                </Link>
+              </li>
+              <li>
+                <Link to="/periodo_formativo" className="navbar_link">
+                  Periodo formativo
+                </Link>
+              </li>
+              <li>
+                <Link to="/tahuantinsuyo" className="navbar_link">
+                  Tahuantinsuyo
                 </Link>
               </li>
             </ul>
