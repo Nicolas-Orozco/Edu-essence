@@ -14,8 +14,9 @@ function Footer() {
           href="https://www.termsfeed.com/live/bc70914c-cea9-48f7-ab3e-025d61b53438"
           className="link"
         >
-          este "Disclaimer" de Fair Use.
+          este "Disclaimer" de <i>Fair Use</i>
         </a>
+        ; esto con ninguna intención de apropiarse del mismo.
       </p>
     </footer>
   );
