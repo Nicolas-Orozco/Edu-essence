@@ -1,7 +1,7 @@
 function Footer() {
   return (
-    <footer className=" bg-white mt-10 pb-10">
-      <div className="max-w-lg text-center mx-auto px-10">
+    <footer className=" bg-white mt-10 pb-10 outline">
+      <div className="max-w-xl text-center mx-auto px-10">
         <h1 className="text-2xl p-6">Notas</h1>
         <p>
           Este sitio fue hecho por Nícolas Orozco <span>&#9829;.</span>

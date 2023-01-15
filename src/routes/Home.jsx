@@ -2,7 +2,7 @@ import Layout from "../components/Layout";
 function Home() {
   return (
     <Layout>
-      <div className="flex flex-1 justify-around items-center w-full flex-col-reverse md:flex-row">
+      <div className="flex flex-1 justify-around items-center w-full flex-col-reverse md:flex-row mt-8">
         <img
           src="https://pngimg.com/d/book_PNG2105.png"
           width="300"
