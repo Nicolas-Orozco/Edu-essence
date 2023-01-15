@@ -98,7 +98,7 @@ function Magnitudes_fisicas() {
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen
       ></iframe>
-      <p>
+      <p className="mb-10">
         Por{" "}
         <a href="https://www.youtube.com/@Unprofesor" className="link">
           unProfesor
