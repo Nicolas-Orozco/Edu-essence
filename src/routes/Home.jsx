@@ -8,9 +8,14 @@ function Home() {
           width="300"
           className="p-2"
         />
-        <h1 className="text-4xl text-center font-bold p-10">
+        {/* <h1 className="text-4xl text-center font-bold p-10">
           ¡Bienvenido a EduEssence! Si eres nuevo, puedes revisar los pasos
           siguientes para orientarte mejor.
+  </h1>*/}
+        <h1 class="text-center text-4xl leading-relaxed xl:leading-[1.7] font-bold m-5">
+          ¡Bienvenido a
+          <span class="bg-sky-900 text-white p-2 m-2">EduEssence!</span> Si eres
+          nuevo, puedes revisar los pasos siguientes para orientarte mejor.
         </h1>
       </div>
       <section className="bg-warning my-12 mx-6">
