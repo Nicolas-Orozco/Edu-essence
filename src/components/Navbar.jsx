@@ -127,7 +127,7 @@ function Navbar() {
         </div>
         <Link
           to="/"
-          className="btn btn-ghost normal-case text-xl border-2 border-black hover:border-2 hover:border-black"
+          className="btn btn-ghost mr-3 normal-case text-xl border-2 border-black hover:border-2 hover:border-black"
         >
           <img
             src={Edu_Essence}
@@ -138,6 +138,10 @@ function Navbar() {
           />
           <p>"Aprender/Reforzar"</p>
         </Link>
+        <select data-choose-theme className="text-xl rounded-sm outline p-1">
+          <option value="light">Claro</option>
+          <option value="dark">Oscuro</option>
+        </select>
       </div>
       <div className="navbar-end hidden lg:flex">
         <ul className="menu menu-horizontal px-2 gap-5">

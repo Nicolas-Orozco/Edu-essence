@@ -15,6 +15,8 @@ import {
   Desarrollo_regional,
 } from "./routes/index";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { useEffect } from "react";
+import { themeChange } from "theme-change";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -74,6 +76,9 @@ const router = createBrowserRouter([
   },
 ]);
 function App() {
+  useEffect(() => {
+    themeChange(false);
+  }, []);
   return (
     <div>
       <RouterProvider router={router} />
