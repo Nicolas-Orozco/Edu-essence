@@ -27,7 +27,7 @@ function Navbar() {
             className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
           >
             <li tabIndex={0}>
-              <a className="justify-between bg-success text-xl font-bold mb-3">
+              <a className="justify-between bg-success text-xl text-success-content font-bold mb-3">
                 Ciencia y tecnología
                 <svg
                   className="fill-current"
@@ -73,7 +73,7 @@ function Navbar() {
               </ul>
             </li>
             <li tabIndex={0}>
-              <a className="justify-between bg-warning text-xl font-bold">
+              <a className="justify-between bg-warning text-warning-content text-xl font-bold">
                 Historia del Perú
                 <svg
                   className="fill-current"
@@ -140,8 +140,11 @@ function Navbar() {
         </Link>
       </div>
       <div className="navbar-end hidden lg:flex">
-        <ul className="menu menu-horizontal px-2 gap-10">
-          <li tabIndex={0} className="bg-success outline text-lg font-bold">
+        <ul className="menu menu-horizontal px-2 gap-5">
+          <li
+            tabIndex={0}
+            className="bg-success text-lg font-bold text-success-content border-neutral-focus border-4"
+          >
             <a>
               Ciencia y tecnología
               <svg
@@ -187,7 +190,10 @@ function Navbar() {
               </li>
             </ul>
           </li>
-          <li tabIndex={0} className="bg-warning outline text-lg font-bold">
+          <li
+            tabIndex={0}
+            className="bg-warning text-warning-content text-lg font-bold border-neutral-focus border-4"
+          >
             <a>
               Historia del Perú
               <svg

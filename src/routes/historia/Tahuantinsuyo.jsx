@@ -5,12 +5,13 @@ function Tahuantinsuyo() {
     <Layout>
       <h1 className="title">Tahuantinsuyo</h1>
       <p>
-        Alrededor del siglo XIII d.C. los incas se asentaron en el Cuzco, así se
-        da inicio al Imperio Inca, desde ahí se expandieron por el territorio
+        "Alrededor del siglo XIII d.C. los incas se asentaron en el Cuzco, así
+        se da inicio al Imperio Inca, desde ahí se expandieron por el territorio
         andino, logrando que el Imperio Inca dominase parte de los actuales
         territorios de Perú, Bolivia, Chile, Ecuador, Argentina y Colombia. La
         organización y administración impuesta por los incas se convirtió en el
-        Estado más importante y poderoso antes de la presencia de los españoles.
+        Estado más importante y poderoso antes de la presencia de los
+        españoles".
         <br />
         <a
           href="https://historiaperuana.pe/periodo-autoctono/imperio-inca-tahuantinsuyo"

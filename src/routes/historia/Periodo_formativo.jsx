@@ -6,9 +6,9 @@ function Periodo_formativo() {
     <Layout>
       <h1 className="title">Periodo formativo</h1>
       <p>
-        El Formativo es el período comprendido entre el 2000 y el 200 a. C.,
+        "El Formativo es el período comprendido entre el 2000 y el 200 a. C.,
         caracterizado por el surgimiento de la alfarería, la textilería en telar
-        de lizo y la metalurgia.
+        de lizo y la metalurgia".
       </p>
       <hr />
       <a

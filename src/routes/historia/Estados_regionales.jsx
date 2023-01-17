@@ -6,9 +6,9 @@ function Estados_regionales() {
     <Layout>
       <h1 className="title">Estados regionales</h1>
       <p>
-        Entre el final del período Tiahuanaco y el comienzo del Incario se dio
+        "Entre el final del período Tiahuanaco y el comienzo del Incario se dio
         el llamado Segundo Período Intermedio, en el cual nuevamente se
-        desarrollan culturas locales independientes.
+        desarrollan culturas locales independientes".
       </p>
       <hr />
       <a href="http://intiyana.org/peru_arte_estados.html" className="link">
