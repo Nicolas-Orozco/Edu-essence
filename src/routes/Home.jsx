@@ -29,7 +29,7 @@ function Home() {
         <h2 className="text-3xl text-center font-bold p-10">
           Esta "miniplataforma" será eventualmente actualizada con arreglos y
           adiciones que permitan un uso más desarrollado del mismo.
-          <hr />
+          <br />
           <strong>Finalmente, ¡espero que te ayude!</strong>
         </h2>
         <img

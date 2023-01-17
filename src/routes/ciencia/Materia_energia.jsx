@@ -10,7 +10,7 @@ function Materia_energia() {
         en el espacio. Al hablar de masa nos estamos refiriendo a la materia que
         tiene un cuerpo, por lo que se trata de una magnitud fundamental a la
         hora de entender y trabajar con la materia.
-        <hr />
+        <br />
         [...]La definición clásica de la energía es la capacidad para realizar
         un trabajo. En este sentido, la energía deberá ser entendida como la
         capacidad de los cuerpos a la hora de realizar un trabajo, que podrá

@@ -9,14 +9,14 @@ function Rutas_migratorias() {
       <p>
         1. El contexto ambiental de la Tierra corresponde a épocas de grandes
         glaciaciones. Esto provoca variaciones en el nivel del mar.
-        <hr /> 2. Recordar que las sociedades durante el periodo Paleolítico
+        <br /> 2. Recordar que las sociedades durante el periodo Paleolítico
         eran nómades, es decir, estaban en constante movimiento buscando un
         hábitat favorable (clima, alimentos, menor cantidad de amenazas
         naturales)
-        <hr /> 3. Si bien los primeros homínidos se originaron en África, el
+        <br /> 3. Si bien los primeros homínidos se originaron en África, el
         Homo Erectus es el primero en salir de este continente y el Homo Sapiens
         Sapiens (humano actual) fue el que llegó a poblar el continente
-        americano. <hr /> 4. Las teorías del poblamiento americano se respaldan
+        americano. <br /> 4. Las teorías del poblamiento americano se respaldan
         por evidencias arqueológicas que consisten las técnicas de fabricación
         de herramientas (tecnología clovis), el estudio genético de los restos
         humanos y a la evidencia geológica de las glaciaciones

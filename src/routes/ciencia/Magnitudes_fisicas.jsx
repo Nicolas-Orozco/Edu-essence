@@ -7,9 +7,9 @@ function Magnitudes_fisicas() {
       <p>
         Es todo aquello que puede ser medido, y se puede representar por un
         número, además pueden ser estudiados en las ciencias experimentales.
-        <hr />
+        <br />
         Cuando las magnitudes se pueden medir mediante un instrumento de medida,
-        se dice que dichas magnitudes son magnitudes físicas. <hr />
+        se dice que dichas magnitudes son magnitudes físicas. <br />
         Las magnitudes fundamentales son muy importantes y nos sirven de base
         para escribir las demás magnitudes. Estas magnitudes fundamentales son:
         la longitud, masa, tiempo, temperatura termodinámica, intensidad de

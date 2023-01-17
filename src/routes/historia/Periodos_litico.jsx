@@ -6,9 +6,9 @@ function Periodos_litico() {
       <h1 className="title">Periodos lítico y arcaico</h1>
       <p>
         Lítico: Fue un periodo en el que el hombre llegado al Perú se dedico a
-        la caza y recolección para poder sobrevivir. <hr />
+        la caza y recolección para poder sobrevivir. <br />
         Arcaico: Periodo de transición en el que el hombre pasa a desarrollar
-        una economía productora al descubrir la agricultura y ganadería. <hr />{" "}
+        una economía productora al descubrir la agricultura y ganadería. <br />{" "}
         (Recurso es el link de abajo)
       </p>
       <h2 className="subtitle">Gráficos</h2>

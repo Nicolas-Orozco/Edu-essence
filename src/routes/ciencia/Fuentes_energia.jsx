@@ -10,7 +10,7 @@ function Materia_energia() {
         entorno se vea afectado negativamente. Estas energías, al contrario de
         las convencionales, no dejan una huella perjudicial en la naturaleza, la
         atmósfera y el conjunto del planeta.
-        <hr />
+        <br />
         <a
           href="https://lucera.es/blog/como-ayudan-las-energias-alternativas-al-medio-ambiente"
           className="link"
