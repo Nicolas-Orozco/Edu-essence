@@ -1,7 +1,12 @@
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import ScrollToTop from "../components/scrollToTop";
+import { useEffect } from "react";
+import { themeChange } from "theme-change";
 function Layout({ children }) {
+  useEffect(() => {
+    themeChange(false);
+  }, []);
   return (
     <>
       <Navbar />
