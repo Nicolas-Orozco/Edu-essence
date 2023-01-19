@@ -15,6 +15,7 @@ import {
   Desarrollo_regional,
 } from "./routes/index";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+
 const router = createBrowserRouter([
   {
     path: "/",

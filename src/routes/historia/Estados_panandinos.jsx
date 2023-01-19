@@ -5,10 +5,10 @@ function Estados_panandinos() {
     <Layout>
       <h1 className="title">Estados panandinos</h1>
       <p>
-        Las investigaciones arqueológicas precolombinas sobre América señalan a
+        "Las investigaciones arqueológicas precolombinas sobre América señalan a
         Mesoamérica y los Andes centrales y sureños, actuales repúblicas andinas
         del Ecuador, Perú y Bolivia, como dos de las áreas nucleares que
-        generaron los procesos culturales más complejos.
+        generaron los procesos culturales más complejos".
       </p>
       <hr />
       <a

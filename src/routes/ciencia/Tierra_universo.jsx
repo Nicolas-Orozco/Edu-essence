@@ -16,7 +16,7 @@ function Tierra_universo() {
         probable destino. Explicar el cielo nocturno como una forma de ver
         nuestra galaxia, la Vía Láctea Entender la enorme cantidad de galaxias
         existentes en un Universo percibido con su carácter evolutivo".
-        <hr />
+        <br />
         <a
           href="http://newton.cnice.mec.es/materiales_didacticos/tierrayuniverso/objetivos.htm"
           className="link"

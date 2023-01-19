@@ -5,13 +5,13 @@ function Desarrollo_regional() {
     <Layout>
       <h1 className="title">Periodo de desarrollos regionales</h1>
       <p>
-        Los desarrollos regionales (200 a.C. - 500 d.C.) Si bien se conoce a
+        "Los desarrollos regionales (200 a.C. - 500 d.C.) Si bien se conoce a
         este periodo con el clásico nombre de Intermedio Temprano acuñado por
         John Rowe, otros investigadores han acuñado, a lo largo del siglo XX,
         diversos nombres para tan compleja y diversa etapa. La variedad de
         culturas que surgieron y se desarrollaron a lo largo de todo el
         territorio nacional no impide se encuentre entre ellas muchas
-        similitudes, relaciones e intercambios.
+        similitudes, relaciones e intercambios".
       </p>
       <a
         href="https://educared.fundaciontelefonica.com.pe/sites/peru-prehispanico/i_temprano.htm"

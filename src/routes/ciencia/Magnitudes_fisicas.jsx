@@ -5,15 +5,15 @@ function Magnitudes_fisicas() {
     <Layout>
       <h1 className="title">Magnitudes físicas fundamentales</h1>
       <p>
-        Es todo aquello que puede ser medido, y se puede representar por un
-        número, además pueden ser estudiados en las ciencias experimentales.
-        <hr />
-        Cuando las magnitudes se pueden medir mediante un instrumento de medida,
-        se dice que dichas magnitudes son magnitudes físicas. <hr />
+        "Es todo aquello que puede ser medido, y se puede representar por un
+        número, además pueden ser estudiados en las ciencias experimentales".
+        <br />
+        "Cuando las magnitudes se pueden medir mediante un instrumento de
+        medida, se dice que dichas magnitudes son magnitudes físicas. <br />
         Las magnitudes fundamentales son muy importantes y nos sirven de base
         para escribir las demás magnitudes. Estas magnitudes fundamentales son:
         la longitud, masa, tiempo, temperatura termodinámica, intensidad de
-        corriente eléctrica, intensidad luminosa y cantidad de sustancia
+        corriente eléctrica, intensidad luminosa y cantidad de sustancia".
       </p>
       <a
         href="http://www.cepb.una.py/web/images/pdf/2020/ejercitarios/1curso/FISICA.pdf"

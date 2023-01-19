@@ -5,11 +5,11 @@ function Conquista_espacio() {
     <Layout>
       <h1 className="title">La conquista del espacio</h1>
       <p>
-        El 21 de julio de 1969 el astronauta Michael Collins observó la primera
+        "El 21 de julio de 1969 el astronauta Michael Collins observó la primera
         caminata lunar desde el módulo de mando del Apollo 11, estacionado en el
         Mar de la Tranquilidad. No tuvo la fortuna de pisar la superficie de la
         Luna como Neil Armstrong y Buzz Aldrin, ni su nombre ha gozado de
-        protagonismo en la historia mundial. Sin embargo se debe recordar que
+        protagonismo en la historia mundial. Sin embargo se dsebe recordar que
         Collins fue parte de la legendaria misión Apolo 11, que consagró el
         anhelo de alcanzar y pisar la Luna, dando “un pequeño paso para el
         hombre, pero un gran salto para la humanidad”.

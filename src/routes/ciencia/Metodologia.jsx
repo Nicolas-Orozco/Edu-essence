@@ -6,11 +6,11 @@ function Metodologia() {
     <Layout>
       <h1 className="title">Metología científica</h1>
       <p>
-        La Metodología de la Investigación (M.I.) o Metodología de la
+        "La Metodología de la Investigación (M.I.) o Metodología de la
         Investigación Científica es aquella ciencia que provee al investigador
         de una serie de conceptos, principios y leyes que le permiten encauzar
         de un modo eficiente y tendiente a la excelencia el proceso de la
-        investigación científica.
+        investigación científica".
       </p>
       <a
         href="https://www.unacar.mx/contenido/gaceta/ediciones/metodologia_investigacion.pdf"

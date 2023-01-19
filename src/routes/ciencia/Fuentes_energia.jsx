@@ -5,12 +5,12 @@ function Materia_energia() {
     <Layout>
       <h1 className="title">Fuentes de energía y conservación del ambiente</h1>
       <p>
-        Este tipo de erngías contribuyen eficazmente en el cuidado del
+        "Este tipo de erngías contribuyen eficazmente en el cuidado del
         medioambiente, permitiendo un desarrollo sostenible sin que nuestro
         entorno se vea afectado negativamente. Estas energías, al contrario de
         las convencionales, no dejan una huella perjudicial en la naturaleza, la
-        atmósfera y el conjunto del planeta.
-        <hr />
+        atmósfera y el conjunto del planeta".
+        <br />
         <a
           href="https://lucera.es/blog/como-ayudan-las-energias-alternativas-al-medio-ambiente"
           className="link"
