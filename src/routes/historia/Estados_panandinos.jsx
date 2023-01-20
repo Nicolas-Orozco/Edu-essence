@@ -1,6 +1,9 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Estados_panandinos() {
+  useTitle("Estados panandinos");
   return (
     <Layout>
       <h1 className="title">Estados panandinos</h1>

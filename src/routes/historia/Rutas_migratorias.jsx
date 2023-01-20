@@ -1,6 +1,9 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Rutas_migratorias() {
+  useTitle("Hipótesis sobre las rutas migratorias del poblamiento americano");
   return (
     <Layout>
       <h1 className="title">

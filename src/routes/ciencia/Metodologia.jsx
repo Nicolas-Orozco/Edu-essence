@@ -1,7 +1,10 @@
 import Layout from "../../components/Layout";
 import Metodo_cientifico from "../../assets/metodo_cientifico.png";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Metodologia() {
+  useTitle("Metodología científica");
   return (
     <Layout>
       <h1 className="title">Metología científica</h1>

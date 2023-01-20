@@ -1,9 +1,12 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Tierra_universo() {
+  useTitle("La tierra y el Universo");
   return (
     <Layout>
-      <h1 className="title">La tierra y el universo</h1>
+      <h1 className="title">La tierra y el Universo</h1>
       <p>
         "Comprender de forma cualitativa la noción de movimiento relativo, en
         grado suficiente para poder explicar el movimiento aparente de los

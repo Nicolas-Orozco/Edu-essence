@@ -1,6 +1,9 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Periodos_litico() {
+  useTitle("Periodos lítico y arcaico");
   return (
     <Layout>
       <h1 className="title">Periodos lítico y arcaico</h1>
