@@ -1,6 +1,9 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Magnitudes_fisicas() {
+  useTitle("Magnitudes físicas fundamentales");
   return (
     <Layout>
       <h1 className="title">Magnitudes físicas fundamentales</h1>

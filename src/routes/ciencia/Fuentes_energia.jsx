@@ -1,6 +1,8 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
 function Materia_energia() {
+  useTitle("Fuentes de energía y conservación del ambiente");
   return (
     <Layout>
       <h1 className="title">Fuentes de energía y conservación del ambiente</h1>

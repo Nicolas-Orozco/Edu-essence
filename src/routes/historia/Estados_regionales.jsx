@@ -1,7 +1,10 @@
 import Layout from "../../components/Layout";
 import Cronologia_economico_social from "../../assets/Cronologia_economico_social.png";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Estados_regionales() {
+  useTitle("Estados regionales");
   return (
     <Layout>
       <h1 className="title">Estados regionales</h1>

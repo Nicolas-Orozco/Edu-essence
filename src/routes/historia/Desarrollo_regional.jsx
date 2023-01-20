@@ -1,6 +1,9 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Desarrollo_regional() {
+  useTitle("Período de desarrollos regionales");
   return (
     <Layout>
       <h1 className="title">Periodo de desarrollos regionales</h1>

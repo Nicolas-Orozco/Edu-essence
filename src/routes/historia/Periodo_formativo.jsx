@@ -1,7 +1,10 @@
 import Layout from "../../components/Layout";
 import Periodos_historia from "../../assets/periodos_historia.png";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Periodo_formativo() {
+  useTitle("Periodo formativo");
   return (
     <Layout>
       <h1 className="title">Periodo formativo</h1>

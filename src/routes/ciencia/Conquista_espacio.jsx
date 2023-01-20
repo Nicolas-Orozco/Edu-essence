@@ -1,6 +1,8 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
 function Conquista_espacio() {
+  useTitle("La conquista del espacio");
   return (
     <Layout>
       <h1 className="title">La conquista del espacio</h1>

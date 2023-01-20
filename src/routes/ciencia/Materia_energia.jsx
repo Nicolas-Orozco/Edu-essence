@@ -1,6 +1,9 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Materia_energia() {
+  useTitle("Materia y energía");
   return (
     <Layout>
       <h1 className="title">Materia y energía</h1>

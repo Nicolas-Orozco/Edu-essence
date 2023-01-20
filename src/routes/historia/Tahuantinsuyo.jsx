@@ -1,6 +1,9 @@
 import Layout from "../../components/Layout";
 import Resources from "../../components/Resources";
+import useTitle from "../../hooks/useTitle";
+
 function Tahuantinsuyo() {
+  useTitle("El Tahuantinsuyo");
   return (
     <Layout>
       <h1 className="title">Tahuantinsuyo</h1>
