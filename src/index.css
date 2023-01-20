@@ -6,7 +6,7 @@
   @apply whitespace-normal border-b-2 border-white hover:bg-gray-700 active:bg-gray-600;
 }
 .title {
-  @apply text-5xl font-bold py-7;
+  @apply text-3xl md:text-4xl xl:text-5xl font-bold bg-primary text-primary-content p-6 my-4 md:my-8 xl:my-12 rounded-md border-base-content border-4;
 }
 .subtitle {
   @apply text-3xl font-bold py-5 pt-8 text-base-content;
