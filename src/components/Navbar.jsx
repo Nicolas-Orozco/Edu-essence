@@ -29,7 +29,7 @@ function Navbar() {
             <li>
               <select
                 data-choose-theme
-                className="select-secondary select text-base mb-3"
+                className="select-secondary select text-base mb-3 sm:hidden inline-block"
               >
                 <option value="light">Claro</option>
                 <option value="dark">Oscuro</option>
