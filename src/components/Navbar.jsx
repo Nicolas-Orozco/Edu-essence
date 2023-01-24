@@ -26,6 +26,15 @@ function Navbar() {
             tabIndex={0}
             className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
           >
+            <li>
+              <select
+                data-choose-theme
+                className="select-secondary select text-base mb-3"
+              >
+                <option value="light">Claro</option>
+                <option value="dark">Oscuro</option>
+              </select>
+            </li>
             <li tabIndex={0}>
               <a className="justify-between bg-success text-xl text-success-content font-bold mb-3">
                 Ciencia y tecnología
@@ -127,7 +136,7 @@ function Navbar() {
         </div>
         <Link
           to="/"
-          className="btn btn-ghost mr-3 normal-case text-xl border-2 border-black hover:border-2 hover:border-black"
+          className="btn btn-ghost mr-3 normal-case text-xl border-2 border-primary hover:border-2 hover:border-black"
         >
           <img
             src={Edu_Essence}
@@ -138,7 +147,10 @@ function Navbar() {
           />
           <p>"Aprender/Reforzar"</p>
         </Link>
-        <select data-choose-theme className="text-xl rounded-sm outline p-1">
+        <select
+          data-choose-theme
+          className="select-secondary select hidden sm:inline-block text-base"
+        >
           <option value="light">Claro</option>
           <option value="dark">Oscuro</option>
         </select>
