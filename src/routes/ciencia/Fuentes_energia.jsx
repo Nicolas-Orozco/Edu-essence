@@ -6,12 +6,19 @@ function Materia_energia() {
   return (
     <Layout>
       <h1 className="title">Fuentes de energía y conservación del ambiente</h1>
-      <p>
-        "Este tipo de erngías contribuyen eficazmente en el cuidado del
+      <p className="text-lg">
+        "Este tipo de energías contribuyen eficazmente en el cuidado del
         medioambiente, permitiendo un desarrollo sostenible sin que nuestro
         entorno se vea afectado negativamente. Estas energías, al contrario de
         las convencionales, no dejan una huella perjudicial en la naturaleza, la
         atmósfera y el conjunto del planeta".
+        <br />
+        <br />
+        "El crecimiento de las energías renovables es totalmente imparable e
+        imprescindible si queremos contrarrestar con eficacia situaciones que
+        precisan de soluciones urgentes: el cambio climático, el efecto
+        invernadero y el calentamiento global que está sufriendo el planeta y
+        cuyos efectos son cada vez más devastadores".
         <br />
         <a
           href="https://lucera.es/blog/como-ayudan-las-energias-alternativas-al-medio-ambiente"
@@ -102,7 +109,7 @@ function Materia_energia() {
       <p className="mb-10">
         Por{" "}
         <a href="https://www.youtube.com/watch?v=eQljVrVs5R0" className="link">
-          https://www.youtube.com/watch?v=eQljVrVs5R0
+          Profa. Kempis
         </a>
       </p>
       <Resources>

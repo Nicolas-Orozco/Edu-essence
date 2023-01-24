@@ -7,7 +7,7 @@ function Desarrollo_regional() {
   return (
     <Layout>
       <h1 className="title">Periodo de desarrollos regionales</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "Los desarrollos regionales (200 a.C. - 500 d.C.) Si bien se conoce a
         este periodo con el clásico nombre de Intermedio Temprano acuñado por
         John Rowe, otros investigadores han acuñado, a lo largo del siglo XX,

@@ -8,10 +8,16 @@ function Estados_regionales() {
   return (
     <Layout>
       <h1 className="title">Estados regionales</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "Entre el final del período Tiahuanaco y el comienzo del Incario se dio
         el llamado Segundo Período Intermedio, en el cual nuevamente se
         desarrollan culturas locales independientes".
+        <br />
+        <br /> "Cada una de las regiones dio lugar a la formación de estados
+        centralizados. La población aumentó considerablemente en esa época, se
+        construyeron grandes ciudades, como Chan-Chan, y el énfasis de las
+        culturas estuvo puesto en la producción en serie de objetos, uso de
+        métodos de fabricación como moldes".
       </p>
       <hr />
       <a href="http://intiyana.org/peru_arte_estados.html" className="link">

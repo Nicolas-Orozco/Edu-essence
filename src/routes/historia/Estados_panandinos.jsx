@@ -7,11 +7,16 @@ function Estados_panandinos() {
   return (
     <Layout>
       <h1 className="title">Estados panandinos</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "Las investigaciones arqueológicas precolombinas sobre América señalan a
         Mesoamérica y los Andes centrales y sureños, actuales repúblicas andinas
         del Ecuador, Perú y Bolivia, como dos de las áreas nucleares que
-        generaron los procesos culturales más complejos".
+        generaron los procesos culturales más complejos. Aquí la ciudad y el
+        estado son las expresiones culturales y políticas más logradas en su
+        evolución. Las otras regiones, próximas o distantes a estas dos áreas,
+        alcanzaron poca complejidad, siendo el curacazgo en muy pocos lugares la
+        organización política más alta y, más bien, la banda y la tribu, las
+        formas más comunes de organización social y política".
       </p>
       <hr />
       <a

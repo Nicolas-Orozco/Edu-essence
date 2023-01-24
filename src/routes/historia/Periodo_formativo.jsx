@@ -8,10 +8,14 @@ function Periodo_formativo() {
   return (
     <Layout>
       <h1 className="title">Periodo formativo</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "El Formativo es el período comprendido entre el 2000 y el 200 a. C.,
         caracterizado por el surgimiento de la alfarería, la textilería en telar
-        de lizo y la metalurgia".
+        de lizo y la metalurgia. Los centros religiosos se afianzan y se da una
+        síntesis de tres modelos arquitectónicos: templos en U, pirámides con
+        pozo ceremonial, y recintos con vereda interna y patio central hundido.
+        Aumentan las áreas de cultivo, como consecuencia de la agricultura de
+        riego, que permitió alcanzar un gran desarrollo tecnológico".
       </p>
       <hr />
       <a

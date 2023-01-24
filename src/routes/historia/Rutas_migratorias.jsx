@@ -9,7 +9,7 @@ function Rutas_migratorias() {
       <h1 className="title">
         Hipótesis sobre las rutas migratorias del poblamiento americano
       </h1>
-      <p>
+      <p className="text-md lg:text-lg">
         1. "El contexto ambiental de la Tierra corresponde a épocas de grandes
         glaciaciones. Esto provoca variaciones en el nivel del mar".
         <br /> 2. "Recordar que las sociedades durante el periodo Paleolítico

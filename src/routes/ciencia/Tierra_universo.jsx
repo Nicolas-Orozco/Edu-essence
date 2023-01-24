@@ -7,7 +7,7 @@ function Tierra_universo() {
   return (
     <Layout>
       <h1 className="title">La tierra y el Universo</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "Comprender de forma cualitativa la noción de movimiento relativo, en
         grado suficiente para poder explicar el movimiento aparente de los
         astros como consecuencia de la rotación y traslación terrestre. Explicar

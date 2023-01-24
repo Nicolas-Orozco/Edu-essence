@@ -6,7 +6,7 @@ function Conquista_espacio() {
   return (
     <Layout>
       <h1 className="title">La conquista del espacio</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "El 21 de julio de 1969 el astronauta Michael Collins observó la primera
         caminata lunar desde el módulo de mando del Apollo 11, estacionado en el
         Mar de la Tranquilidad. No tuvo la fortuna de pisar la superficie de la
@@ -15,7 +15,16 @@ function Conquista_espacio() {
         Collins fue parte de la legendaria misión Apolo 11, que consagró el
         anhelo de alcanzar y pisar la Luna, dando “un pequeño paso para el
         hombre, pero un gran salto para la humanidad”.
-        <hr />
+        <br />
+        <br />
+        Los avances tecnocientíficos que permitieron este viaje —y otras proezas
+        en el espacio exterior— se dieron durante la Carrera Espacial[1], una
+        competencia entre la Unión Soviética y los Estados Unidos de América
+        para conquistar el espacio, durante la cual ambas potencias buscaron
+        demostrar su superioridad y capacidad tecnológica frente a la de sus
+        rivales, como lo habían hecho en la férrea competencia armamentística
+        desde el fin de la Segunda Guerra Mundial.
+        <br />
         <a
           href="https://www.tierraadentro.cultura.gob.mx/la-conquista-del-espacio-y-la-idea-de-la-frontera/"
           className="link"

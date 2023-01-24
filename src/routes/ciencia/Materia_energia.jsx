@@ -7,7 +7,7 @@ function Materia_energia() {
   return (
     <Layout>
       <h1 className="title">Materia y energía</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "La materia es la sustancia que forma los cuerpos físicos. En otras
         palabras, se trata de todo aquello que tiene masa y que ocupa un lugar
         en el espacio. Al hablar de masa nos estamos refiriendo a la materia que

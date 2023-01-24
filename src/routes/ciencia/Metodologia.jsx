@@ -8,12 +8,25 @@ function Metodologia() {
   return (
     <Layout>
       <h1 className="title">Metología científica</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "La Metodología de la Investigación (M.I.) o Metodología de la
         Investigación Científica es aquella ciencia que provee al investigador
         de una serie de conceptos, principios y leyes que le permiten encauzar
         de un modo eficiente y tendiente a la excelencia el proceso de la
-        investigación científica".
+        investigación científica. El objeto de estudio de la M.I. Lo podemos
+        definir como el proceso de Investigación Científica, el cual está
+        conformado por toda una serie de pasos lógicamente estructurados y
+        relacionados entre si. Este estudio se hace sobre la base de un conjunto
+        de características y de sus relaciones y leyes".
+        <br />
+        <br />
+        En la Educación Superior la Investigación Científica tiene doble
+        función: contribuye a la formación del profesional y es, además una vía
+        para resolver los problemas que se presentan en la sociedad. Con el
+        objetivo de formar profesionales con un alto grado de competencia y
+        desempeño en las universidades latinoamericanas es necesario lograr que
+        los procesos que en ella se desarrollan alcancen la excelencia académica
+        y la excelencia científica
       </p>
       <a
         href="https://www.unacar.mx/contenido/gaceta/ediciones/metodologia_investigacion.pdf"

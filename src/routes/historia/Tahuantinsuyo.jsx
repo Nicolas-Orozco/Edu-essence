@@ -7,7 +7,7 @@ function Tahuantinsuyo() {
   return (
     <Layout>
       <h1 className="title">Tahuantinsuyo</h1>
-      <p>
+      <p className="text-md lg:text-lg">
         "Alrededor del siglo XIII d.C. los incas se asentaron en el Cuzco, así
         se da inicio al Imperio Inca, desde ahí se expandieron por el territorio
         andino, logrando que el Imperio Inca dominase parte de los actuales
