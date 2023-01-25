@@ -12,9 +12,9 @@ function Home() {
           ¡Bienvenido a EduEssence! Si eres nuevo, puedes revisar los pasos
           siguientes para orientarte mejor.
   </h1>*/}
-        <h1 className="text-center text-base-content text-4xl leading-relaxed xl:leading-[1.7] font-bold mx-5">
+        <h1 className="text-center text-base-content text-3xl sm:text-4xl leading-relaxed lg:leading-[1.7] font-bold mx-5">
           ¡Bienvenido a
-          <span className="bg-primary text-primary-content p-2 m-2">
+          <span className="bg-primary text-primary-content p-0.5">
             EduEssence!
           </span>{" "}
           Si eres nuevo, puedes revisar los pasos siguientes para orientarte
@@ -29,7 +29,7 @@ function Home() {
         </h2>
       </section>
       <div className="flex flex-1 justify-around items-center flex-col md:flex-row">
-        <h2 className="text-3xl text-center font-bold p-10">
+        <h2 className="text-2xl sm:text-3xl text-center font-bold p-10">
           Esta "miniplataforma" será eventualmente actualizada con arreglos y
           adiciones que permitan un uso más desarrollado del mismo.
           <br />
