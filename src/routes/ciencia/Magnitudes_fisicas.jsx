@@ -38,22 +38,18 @@ function Magnitudes_fisicas() {
       </iframe>{" "}
       <div className="mb-10">
         {" "}
-        <strong>
-          {" "}
-          <a
-            href="//www.slideshare.net/jbd85/magnitudes-fisicas-15852074"
-            title="Magnitudes fisicas"
-            target="_blank"
-          >
-            Magnitudes fisicas
-          </a>{" "}
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/jbd85/magnitudes-fisicas-15852074"
+          title="Magnitudes fisicas"
+          target="_blank"
+          className="link"
+        >
+          Magnitudes fisicas
+        </a>{" "}
         de{" "}
-        <strong>
-          <a href="//www.slideshare.net/jbd85" target="_blank">
-            jbd85
-          </a>
-        </strong>{" "}
+        <a href="//www.slideshare.net/jbd85" target="_blank" className="link">
+          jbd85
+        </a>{" "}
       </div>
       <iframe
         src="https://www.slideserve.com/embed/4868450"

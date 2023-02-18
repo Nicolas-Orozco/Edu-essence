@@ -42,22 +42,22 @@ function Materia_energia() {
       </iframe>{" "}
       <div className="mb-10">
         {" "}
-        <strong>
-          {" "}
-          <a
-            href="//www.slideshare.net/Maripeach/la-energa-y-el-medio-ambiente"
-            title="LA ENERGÍA Y EL MEDIO AMBIENTE"
-            target="_blank"
-          >
-            LA ENERGÍA Y EL MEDIO AMBIENTE
-          </a>{" "}
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/Maripeach/la-energa-y-el-medio-ambiente"
+          title="LA ENERGÍA Y EL MEDIO AMBIENTE"
+          target="_blank"
+          className="link"
+        >
+          LA ENERGÍA Y EL MEDIO AMBIENTE
+        </a>{" "}
         de{" "}
-        <strong>
-          <a href="//www.slideshare.net/Maripeach" target="_blank">
-            Maripeach
-          </a>
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/Maripeach"
+          target="_blank"
+          className="link"
+        >
+          Maripeach
+        </a>{" "}
       </div>
       <div>
         <div>
@@ -78,7 +78,9 @@ function Materia_energia() {
           allowfullscreen
         ></iframe>
         <div>
-          <a href="http://www.calameo.com/">Publish at Calameo</a>
+          <a href="http://www.calameo.com/" className="link">
+            Publish at Calameo
+          </a>
         </div>
       </div>
       <h2 className="subtitle">Audiovisual</h2>

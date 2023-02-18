@@ -60,22 +60,22 @@ function Metodologia() {
       </iframe>{" "}
       <div>
         {" "}
-        <strong>
-          {" "}
-          <a
-            href="//www.slideshare.net/danieladebenedetto/mapa-conceptual-sobre-metodo-cientifico"
-            title="Mapa conceptual sobre Método Científico "
-            target="_blank"
-          >
-            Mapa conceptual sobre Método Científico{" "}
-          </a>{" "}
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/danieladebenedetto/mapa-conceptual-sobre-metodo-cientifico"
+          title="Mapa conceptual sobre Método Científico "
+          target="_blank"
+          className="link"
+        >
+          Mapa conceptual sobre Método Científico{" "}
+        </a>{" "}
         de{" "}
-        <strong>
-          <a href="//www.slideshare.net/danieladebenedetto" target="_blank">
-            Daniela De Benedetto
-          </a>
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/danieladebenedetto"
+          target="_blank"
+          className="link"
+        >
+          Daniela De Benedetto
+        </a>{" "}
       </div>
       <h2 className="subtitle">Audiovisual</h2>
       <iframe

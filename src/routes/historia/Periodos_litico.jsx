@@ -27,24 +27,24 @@ function Periodos_litico() {
       >
         {" "}
       </iframe>{" "}
-      <div>
+      <div className="mb-10">
         {" "}
-        <strong>
-          {" "}
-          <a
-            href="//www.slideshare.net/cristihancachay/litico-arcaico"
-            title="Litico, arcaico"
-            target="_blank"
-          >
-            Litico, arcaico
-          </a>{" "}
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/cristihancachay/litico-arcaico"
+          title="Litico, arcaico"
+          target="_blank"
+          className="link"
+        >
+          Litico, arcaico
+        </a>{" "}
         de{" "}
-        <strong>
-          <a href="//www.slideshare.net/cristihancachay" target="_blank">
-            cristihancachay
-          </a>
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/cristihancachay"
+          target="_blank"
+          className="link"
+        >
+          cristihancachay
+        </a>{" "}
       </div>
       <div>
         <div>
@@ -65,7 +65,9 @@ function Periodos_litico() {
           allowfullscreen
         ></iframe>
         <div>
-          <a href="http://www.calameo.com/">Publish at Calameo</a>
+          <a href="http://www.calameo.com/" className="link">
+            Publish at Calameo
+          </a>
         </div>
       </div>
       <h2 className="subtitle">Audiovisual</h2>
