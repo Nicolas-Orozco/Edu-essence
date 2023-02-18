@@ -51,7 +51,7 @@ function Desarrollo_regional() {
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/5RwevnLxyeQ"
+        src="https://www.youtube.com/embed/k3kcCnaVBzY"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -59,8 +59,8 @@ function Desarrollo_regional() {
       ></iframe>
       <p className="mb-10">
         Por{" "}
-        <a href="https://www.youtube.com/@cicleros23" className="link">
-          Entre cicleros
+        <a href="https://www.youtube.com/@GrupoPreuni" className="link">
+          Grupo Preuni
         </a>
       </p>
       <iframe
@@ -110,11 +110,10 @@ function Desarrollo_regional() {
         </li>
         <li>
           <a
-            href="https://www.youtube.com/watch?v=5RwevnLxyeQ"
+            href="https://www.youtube.com/watch?v=k3kcCnaVBzY"
             className="link"
           >
-            4 PERIODO DE DESARROLLOS REGIONALES (NAZCA, MOCHE YRECUAY) PROF ALEX
-            QUINTO
+            Clase de Historia: Primer desarrollo regional - Grupo Preuni
           </a>
         </li>
         <li>
