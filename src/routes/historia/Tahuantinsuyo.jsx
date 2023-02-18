@@ -35,40 +35,32 @@ function Tahuantinsuyo() {
       >
         {" "}
       </iframe>{" "}
-      <div>
+      <div className="mb-10">
         {" "}
-        <strong>
-          {" "}
-          <a
-            href="//www.slideshare.net/pillao/imperio-tahuantinsuyo"
-            title="Imperio tahuantinsuyo"
-            target="_blank"
-            className="link"
-          >
-            Imperio tahuantinsuyo
-          </a>{" "}
-        </strong>{" "}
+        <a
+          href="//www.slideshare.net/pillao/imperio-tahuantinsuyo"
+          title="Imperio tahuantinsuyo"
+          target="_blank"
+          className="link"
+        >
+          Imperio tahuantinsuyo
+        </a>{" "}
         de{" "}
-        <strong>
-          <a
-            href="//www.slideshare.net/pillao"
-            target="_blank"
-            className="link"
-          >
-            pillao
-          </a>
-        </strong>{" "}
+        <a href="//www.slideshare.net/pillao" target="_blank" className="link">
+          pillao
+        </a>{" "}
       </div>
       <div>
-        <iframe
-          width="500"
-          height="500"
-          src="https://gallica.bnf.fr/ark:/12148/btv1b53213229q/f1.item.mini"
-        ></iframe>
+        <a
+          href="https://gallica.bnf.fr/ark:/12148/btv1b53213229q/f1.item.zoom"
+          target="_blank"
+        >
+          <img src="https://gallica.bnf.fr/iiif/ark:/12148/btv1b53213229q/f1/490.70596931137766,717.7904191616767,8342.319760479042,12090.78083832335/523,758/0/native.jpg" />
+        </a>
         <p className="text-center">
           En{" "}
           <a
-            href="https://gallica.bnf.fr/ark:/12148/btv1b53213229q/f1.item"
+            href="https://gallica.bnf.fr/ark:/12148/btv1b53213229q/f1.item.zoom"
             className="link"
           >
             {" "}
